@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "i'm not okay",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-28T10:22:58.693605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Not Okay",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/01_I'm_Not_Okay_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/02_I'm_Not_Okay_(I_Promise)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/03_I'm_Not_Okay_(I_Promise)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/04_I'm_Not_Okay_(I_Promise)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) [Live At Launch]",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/05_I'm_Not_Okay_(I_Promise)_[Live_At_Launch]_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) (Live, MTV $2Bill)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/06_I'm_Not_Okay_(I_Promise)_(Live,_MTV_$2Bill)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) [Live On Conan O'brien]",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/07_I'm_Not_Okay_(I_Promise)_[Live_On_Conan_O'brien]_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) (from Late Night with Conan O'Brien)",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/08_I'm_Not_Okay_(I_Promise)_(from_Late_Night_with_Conan_O'Brien)_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) [From MTV Discover and Download]",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/09_I'm_Not_Okay_(I_Promise)_[From_MTV_Discover_and_Download]_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) (from MTV Discover and Download)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/10_I'm_Not_Okay_(I_Promise)_(from_MTV_Discover_and_Download)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) [Live At AOL Sessions]",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/11_I'm_Not_Okay_(I_Promise)_[Live_At_AOL_Sessions]_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) (live at AOL Sessions)",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/12_I'm_Not_Okay_(I_Promise)_(live_at_AOL_Sessions)_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) (live at Launch)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/13_I'm_Not_Okay_(I_Promise)_(live_at_Launch)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) [Live At Starland Ballroom]",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/14_I'm_Not_Okay_(I_Promise)_[Live_At_Starland_Ballroom]_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) (live at the Starland Ballroom)",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/15_I'm_Not_Okay_(I_Promise)_(live_at_the_Starland_Ballroom)_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) (live)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/16_I'm_Not_Okay_(I_Promise)_(live)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) [Version 1]",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/17_I'm_Not_Okay_(I_Promise)_[Version_1]_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm Not Okay (I Promise) [Version 2]",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/18_I'm_Not_Okay_(I_Promise)_[Version_2]_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'm Not Okay - I Promise",
+      "artist": "My Chemical Romance Piano Tribute",
+      "has_synced": false,
+      "path": "select/19_I'm_Not_Okay_-_I_Promise_My_Chemical_Romance_Piano_Tribute.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "i'm not okay",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_i'm_not_okay_JVKE.txt"
+    }
+  ]
+}
