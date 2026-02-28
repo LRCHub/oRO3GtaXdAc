@@ -1,0 +1,43 @@
+# JVKE – i'm not okay
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You can kiss my love goodbye
+Your lipstick stains washed with
+Tears i cry
+For the first time in a while
+I can see through the lies
+Bringing secrets to light
+How could i be
+So naive to
+Think i had you?
+Maybe i'm just
+Dumb
+I'm a fool
+So naive
+I guess i should've known
+You don't love me
+Ooh
+You don't love me
+Maybe i'm just dumb
+Down bad
+All my friends say you're the
+worst
+Down bad
+But i can't see it, vision
+blurred
+I know i look
+Kinda crazy(crazy,crazy)
+Ooh yeah
+But i'm feelin' good
+As of lately(lately,lately)
+Ooh yeah
+I let you live in my brain
+'cause i kinda like the pain
+Breathe,breathe
+I'm not okay
+Yeah,i'm broken by you, ohh
+I'm not okay
+That's A-OK with me
+```
